@@ -7,7 +7,21 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="UserControls\MyLabel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ThreeControls.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\MyLabel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ThreeControls.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

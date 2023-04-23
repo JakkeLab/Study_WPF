@@ -44,3 +44,10 @@ C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\o
 C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\03_Controlers.pdb
 C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\03_Controlers.genruntimeconfig.cache
 C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\ref\03_Controlers.dll
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\bin\Debug\net6.0-windows\Microsoft.Toolkit.Mvvm.dll
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\03_Controlers.csproj.CopyComplete
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\UserControls\ThreeControls.g.cs
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\UserControls\ThreeControls.baml
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\UserControls\MyLabel.g.cs
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\00_Study\0-2_LANG\C# WPF\03_Controlers\obj\Debug\net6.0-windows\UserControls\MyLabel.baml
